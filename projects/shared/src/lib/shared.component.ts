@@ -5,6 +5,10 @@ import { Component } from '@angular/core';
   template: `
     <p>
       This is the shared commponent which I need inside the componet of normal region 
+
+
+
+      let us rock
     </p>
   `,
   styles: [
