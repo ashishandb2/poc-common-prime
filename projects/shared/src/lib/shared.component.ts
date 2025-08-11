@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'lib-shared',
   template: `
     <p>
-      shared works!
+      This is the shared commponent which I need inside the componet of normal region 
     </p>
   `,
   styles: [
