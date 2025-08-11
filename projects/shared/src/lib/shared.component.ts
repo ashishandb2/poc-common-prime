@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 
 
 
-      let us rock
+      let us rock the dance floor
     </p>
   `,
   styles: [
